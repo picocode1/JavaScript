@@ -17,7 +17,7 @@
     var o = "codes";
     var g = 10;
     var u = 2;
-    var s = 10;
+    var s = 4;
     var q = 3;
     var w = 1;
     var v = 0;
